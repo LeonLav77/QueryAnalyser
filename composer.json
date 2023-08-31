@@ -2,8 +2,9 @@
     "name": "leonlav77/queryanalyser",
     "type": "library",
     "license": "MIT",
-    "description": "QueryAnalyser is a PHP library for analyzing SQL queries.",
+    "description": "QueryAnalyser is a Laravel library for analyzing duplicate SQL queries.",
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Leonlav77\\QueryAnalyser\\": "src/"
