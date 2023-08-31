@@ -2,6 +2,8 @@
     "name": "leonlav77/queryanalyser",
     "type": "library",
     "license": "MIT",
+    "description": "QueryAnalyser is a PHP library for analyzing SQL queries.",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Leonlav77\\QueryAnalyser\\": "src/"
