@@ -1,0 +1,17 @@
+{
+    "name": "leonlav77/queryanalyser",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Leonlav77\\QueryAnalyser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leon",
+            "email": "leonlav77@gmail.com"
+        }
+    ],
+    "require": {}
+}
